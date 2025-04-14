@@ -35,8 +35,6 @@ scikit-learn
 You can install all dependencies at once using pip:
 
 ``` bash
-Copy
-Edit
 pip install pandas numpy matplotlib seaborn plotly scikit-learn
 ```
 # 🚀 How to Run
@@ -45,16 +43,12 @@ Clone the repository or download the files manually.
 Make sure you have Jupyter Notebook or JupyterLab installed:
 
 ``` bash
-Copy
-Edit
 pip install notebook
 ```
 
 Launch Jupyter Notebook:
 
 ```bash
-Copy
-Edit
 jupyter notebook
 ```
 
